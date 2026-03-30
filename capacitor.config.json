@@ -1,0 +1,6 @@
+{
+  "appId": "com.maragame.horror",
+  "appName": "Mara",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
